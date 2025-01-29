@@ -23,5 +23,4 @@ This application requires pre-processed movie data and similarity matrices.
 The quality of recommendations depends on the accuracy and completeness of the underlying data.
 The TMDb API key is required to fetch movie posters.
 
-Live on: https://arnavanand.streamlit.app/
 
